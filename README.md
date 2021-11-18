@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello There 👋🏻, welcome to my GitHub profile.
 
-<!--
-**verdudev/verdudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning on programming.
+- 💬 Ask me about Telegram Bot
+- 📫 Contact me on: [Telegram](https://t.me/pranata_11)
 
-Here are some ideas to get you started:
+## My Stats
+![Verdu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdudev&show_icons=true&theme=algolia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdudev&layout=compact)](https://github.com/verdudev/verdudev)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=verdudev)
+
+## My Stuffs:~
+- Student
+- Graphic Designer
+- Editor
+- Freelancer
+- Visual Studio Code ++
+- Telegram ✨
