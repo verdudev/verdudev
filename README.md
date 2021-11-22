@@ -8,7 +8,7 @@
 ![Verdu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdudev&show_icons=true&theme=algolia)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdudev&layout=compact&theme=github_dark)](https://github.com/verdudev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdudev&layout=compact&theme=algolia)](https://github.com/verdudev/)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=verdudev)
