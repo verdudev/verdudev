@@ -4,7 +4,7 @@
 - 💬 Ask me about Telegram Bot
 - 📫 Contact me on: [Telegram](https://t.me/pranata_11)
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center"/>
+<p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></p>
 
 ## My Stats
 ![Verdu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdudev&show_icons=true&theme=algolia)
